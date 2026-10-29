@@ -2,6 +2,11 @@
 
 Prototipo funcional móvil desarrollado para la gestión de toma de pedidos y control de ventas offline para MYPEs distribuidoras mayoristas en la región Piura.
 
+## Integrantes y Roles
+- Percy Luis Pereyra Saavedra: Desarrollo Frontend, Gestión de Estado y Persistencia Local (SQLite & SharedPreferences).
+- Harold Yanayaco Herrera: Arquitectura de Software, Lógica de Negocio y Control del Ciclo de Vida.
+- Enrique Cobeñas: Modelado de Datos Local, Validación de Entradas y Gestión de Vistas.
+
 ## Stack Tecnológico
 - Framework: Flutter (Dart)
 - Base de Datos Local: SQLite (sqflite) para operaciones CRUD locales
